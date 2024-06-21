@@ -1,0 +1,4 @@
+Wszystko dziala jak powinno uzywalem WSL , vscode
+
+Ze wzgledu prostoty zadan nie jestem wstanie wyodrebnic folderow 
+dla zadan tak wiec wszystkie pliki znajduja sie w /cw01
